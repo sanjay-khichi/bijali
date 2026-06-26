@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1012038994313",
+    "firebase_url": "https://hot-coontent-default-rtdb.firebaseio.com",
+    "project_id": "hot-coontent",
+    "storage_bucket": "hot-coontent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012038994313:android:11c13ae27cc420a9a93958",
+        "android_client_info": {
+          "package_name": "com.coontent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012038994313-n8h5p8sjbkfukijv2gbnt33rnv4tsr4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coontent",
+            "certificate_hash": "fda15192aafb97754d8e7c1e6890f8c0c7f7bc0c"
+          }
+        },
+        {
+          "client_id": "1012038994313-3ur3339ip24u5svodv4lmvuoltihgr1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjnym6wrZUSpudEzO8woTDIGQJfO3Vqfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012038994313-3ur3339ip24u5svodv4lmvuoltihgr1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012038994313:android:70312ea4bf35c3e1a93958",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012038994313-3ur3339ip24u5svodv4lmvuoltihgr1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjnym6wrZUSpudEzO8woTDIGQJfO3Vqfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012038994313-3ur3339ip24u5svodv4lmvuoltihgr1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
